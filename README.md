@@ -1,0 +1,2 @@
+# gitWorkshopPaschalis
+a simple one
